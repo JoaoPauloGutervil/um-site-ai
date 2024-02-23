@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    color: black;
+    background: url(images.jpeg)no-repeat;
+    background-size: 1920px 1000px;
+    
+}
+.img{
+    width: 500px;
+    height: 500px;
+}
